@@ -2,9 +2,7 @@
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Hikyy)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](https://linkedin.com/in/rayane-mabrouki/)
 
-Reproduction du site WhatsApp
-
-Présentation
+### Présentation
 
 1. Envoie de message vers un utilisateur de la plateforme.
 
@@ -26,12 +24,12 @@ Présentation
 
 10. Une liste d'utilisateur à votre gauche, vous est proposé quand vous vous connectez.
 
- • Fabriqué avec
+### Fabriqué :
 
 Visual Studio - Éditeur de texte
 
 
- • Technologie
+### Technologie
 
 Utilisation :
 - HTML & CSS, pour la structure et l'aspect visuel de la page inscription, connection, et de la page Home.
@@ -42,7 +40,7 @@ Utilisation :
 
 - JavaScript pour traiter le contenu de la requête des messages. L'aspect visuel et l'interaction des éléments caché. La création de nouvelle bulle (div) à chaque nouveau message. La recherche d'un message effectué avec un utilisateur.
 
- • Mise à jour prochaine :
+### Mise à jour prochaine :
 - Pouvoir envoyer un emoji dans son message.
 - Changer de photos de Profil.
 - Modifier un message.
