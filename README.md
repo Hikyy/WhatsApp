@@ -1,6 +1,6 @@
 # WhatsApp
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)]([http://forthebadge.com](https://github.com/Hikyy))  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](www.linkedin.com/in/rayane-mabrouki/)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Hikyy)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](www.linkedin.com/in/rayane-mabrouki/
 
 Reproduction du site WhatsApp
 
