@@ -42,7 +42,7 @@ Utilisation :
 
 ## Mise à jour prochaine
 
-- Ajout d'image dans le README pour une meilleurs compréhension des fonctionnalité.
+- Ajout d'image dans le README pour une meilleurs compréhension des fonctionnalités.
 - Changer de photos de Profil.
 - Modifier un message.
 - Modifier son nom d'utilisateur.
