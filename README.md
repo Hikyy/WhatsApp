@@ -12,17 +12,17 @@
 
 4. Suppression d'une conversation entière effectuée avec un utilisateur. En haut de votre conversation, il y'a 3 points, il suffit de cliquer sur celui-ci et un message avec "blablabla" sera affiché.
 
-5. Vous pouvez agrémenter votre conversation d'un ou plusieurs emojis (voir la puce 6 pour plus de détails à propos de la mise à jour prochaine)
+5. Vous pouvez agrémenter votre conversation d'un ou plusieurs emojis.
 
-6. Prochainement, possibilité de pouvoir envoyer d'un ou plusieurs emojis.
+6. Effectué une recherche, en haut à droite,  il y'a une loupe, vous pouvez effectuer une recherche des messages que vous avez échangés avec l'utilisateur.
 
-7. Effectué une recherche, en haut à droite,  il y'a une loupe, vous pouvez effectuer une recherche des messages que vous avez échangés avec l'utilisateur.
+7. Création d'un compte sur la page inscription.php
 
-8. Création d'un compte sur la page inscription.php
+8. Connexion à son compte sur la page connection.php et de pouvoir voir les utilisateurs de la plateforme.
 
-9. Connexion à son compte sur la page connection.php et de pouvoir voir les utilisateurs de la plateforme.
+9. Une liste d'utilisateurs à votre gauche, vous est proposée quand vous vous connectez.
 
-10. Une liste d'utilisateurs à votre gauche, vous est proposée quand vous vous connectez.
+10 . Vous pouvez vous déconnecter avec les trois bulles en haut à gauche.
 
 ## Fabriqué
 
@@ -42,7 +42,7 @@ Utilisation :
 
 ## Mise à jour prochaine
 
-- Pouvoir envoyer un emoji dans son message.
+- Ajout d'image de README pour une meilleurs compréhension.
 - Changer de photos de Profil.
 - Modifier un message.
 - Modifier son nom d'utilisateur.
